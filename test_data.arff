@@ -1,0 +1,10 @@
+@relation mashup_cleaned
+
+@attribute downloads numeric
+@attribute useCount numeric
+@attribute numComments numeric
+@attribute updated numeric
+@attribute rating {Four,Five,Three}
+
+@data
+30,15000,20,2013,?
